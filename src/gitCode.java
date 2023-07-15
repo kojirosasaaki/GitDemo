@@ -18,6 +18,12 @@ public class gitCode {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		gitCode gd = new gitCode();
+		
+		gd.Appium();
+		gd.Selenium();
+		gd.RESTAPI();
 
 	}
 
